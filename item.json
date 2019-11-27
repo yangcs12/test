@@ -1,0 +1,68 @@
+{
+  "message": [
+    {
+      "cat_id": 1,
+      "cat_name": "红黑",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "",
+      "children": [
+        {
+          "cat_id": 2,
+          "cat_name": "a0000",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "https://s2.ax1x.com/2019/11/25/Mvq5RI.jpg"
+        },
+        {
+          "cat_id": 3,
+          "cat_name": "a0001",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "https://s2.ax1x.com/2019/11/25/Mvq5RI.jpg"
+        },
+        {
+          "cat_id": 4,
+          "cat_name": "a0002",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "https://s2.ax1x.com/2019/11/25/Mvq5RI.jpg"
+        },
+        {
+          "cat_id": 5,
+          "cat_name": "a0003",
+          "cat_pid": 1,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "https://s2.ax1x.com/2019/11/25/Mvq5RI.jpg"
+        }
+      ]
+    },
+    {
+      "cat_id": 6,
+      "cat_name": "瓷白",
+      "cat_pid": 0,
+      "cat_level": 0,
+      "cat_deleted": false,
+      "cat_icon": "",
+      "children":[
+        {
+          "cat_id": 7,
+          "cat_name": "a0003",
+          "cat_pid": 6,
+          "cat_level": 1,
+          "cat_deleted": false,
+          "cat_icon": "https://s2.ax1x.com/2019/11/25/Mvq5RI.jpg"
+        }
+      ]
+    }
+  ],
+  "meta":{
+    "msg":"获取成功",
+    "status":200
+  }
+}
